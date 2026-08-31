@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://sukicdn.com/wyx/i/2026/08/31/3h9ne.png" align="center" style="width: 100%" />
+  <img src="https://sukicdn.com/wyx/i/2026/08/31/mpnu.jpg" align="center" style="width: 100%" />
 </div>  
   
 
