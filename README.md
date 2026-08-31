@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm MarisaMagic⭐, a master student in NJUST</div>  
+### <div align="center">I'm MarisaMagic⭐, a master student🧑‍🎓 in NJUST🏫</div>  
   
 
 <br/>  
