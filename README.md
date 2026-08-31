@@ -28,6 +28,7 @@
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/68p3.svg" alt="C++" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/8i0dg.svg" alt="Python" height="50" /></a>
   <a href="https://www.anaconda.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/1802v.svg" alt="Anaconda" height="50" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/6d2z.svg" alt="Pytorch" height="50" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/1o5bwx.svg" alt="FastAPI" height="50" /></a>
   <a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/18htq.svg" alt="LangChain" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -42,9 +43,16 @@
 </div>
 
 
-
 ## Vibe Coding
 
 <div>
-  
+  <a href="https://cursor.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/6d3x.svg" alt="Cursor" height="50" /></a>
+  <a href="https://zcode.z.ai/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/8ouy6.svg" alt="ZCode" height="50" /></a>
+  <a href="https://claude.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/6e08.svg" alt="Claude Code" height="50" /></a>
+  <a href="https://www.deepseek.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/8oq9y.svg" alt="DeepSeek" height="50" /></a>
+  <a href="https://www.kimi.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/18qts.svg" alt="Kimi" height="50" /></a>
+  <a href="https://qwen.ai/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/1ox9xo.svg" alt="Qwen" height="50" /></a>
+  <a href="https://chat-grok.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/8phv7.svg" alt="Grok" height="50" /></a>
+  <a href="https://glm-5.org/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/8pkz6.svg" alt="GLM" height="50" /></a>
+  <a href="https://ollama.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/1orb6e.svg" alt="Ollama" height="50" /></a>
 </div>
