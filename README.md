@@ -23,7 +23,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/67gs.svg" alt="Vue.js" height="50" /></a>
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/8i3od.svg" alt="Node.js" height="50" /></a>
-  <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/68p3.svg" alt="C++" height="50" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/8i0dg.svg" alt="Python" height="50" /></a>
