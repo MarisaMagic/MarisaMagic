@@ -25,8 +25,13 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## Github Stats  
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MarisaMagic&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=MarisaMagic&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MarisaMagic&layout=compact&langs_count=6&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MarisaMagic&layout=compact&langs_count=6&theme=vision-friendly-dark)
 
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
