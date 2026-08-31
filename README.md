@@ -61,6 +61,3 @@ Here are some ideas to get you started:
 </div>
 
 </td></tr></table>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
