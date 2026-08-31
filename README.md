@@ -39,6 +39,7 @@
   <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/08/31/69ea.svg" alt="Ubuntu" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+  <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://sukicdn.com/wyx/i/2026/09/01/3if8.svg" alt="LaTeX" height="50" /></a>
 </div>
 
 
@@ -62,7 +63,3 @@
 
   
   
-
-  
-  
-
