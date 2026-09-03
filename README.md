@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm MarisaMagic⭐, a master student🧑‍🎓 in NJUST🏫</div>  
+### <div align="center">I'm MarisaMagic⭐, a master's student🧑‍🎓 in NJUST🏫</div>  
   
 
 
